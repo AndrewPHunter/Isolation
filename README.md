@@ -14,9 +14,9 @@ board (the board does not wrap around), however, the player can "jump" blocked o
 Additionally, agents will have a fixed time limit each turn to search for the best move and respond.  If the time limit expires during a player's turn, that player forfeits the match, and the
 opponent wins.
 </p>
-<p>
+
 The full Udacity project description can be found in the [docs](./docs.md)
-</p>
+
 
 ### Getting Started
 * clone the repo
@@ -39,7 +39,7 @@ python solution.py
 ```
 
 ## Main algorithms employed
-* [Minimax Algorith](https://en.wikipedia.org/wiki/Minimax)
+* [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax)
 
 ```py
     def minimax(self, game, depth):
