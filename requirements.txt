@@ -40,7 +40,7 @@ pandocfilters==1.4.1
 path.py==10.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.13
-py==1.4.32
+py==1.10.0
 pycparser==2.18
 pygame==1.9.3
 Pygments==2.2.0
